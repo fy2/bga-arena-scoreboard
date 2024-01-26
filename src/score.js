@@ -269,6 +269,7 @@
 
   function COUNTRIES() {
     return {
+      'GB': 'United Kingdom',
       '': 'Any country',
       'XX': 'Unknown',
       'AF': 'Afghanistan',
@@ -506,7 +507,6 @@
       'UG': 'Uganda',
       'UA': 'Ukraine',
       'AE': 'United Arab Emirates',
-      'GB': 'United Kingdom',
       'UM': 'United States Minor Outlying Islands',
       'US': 'United States of America',
       'UY': 'Uruguay',
